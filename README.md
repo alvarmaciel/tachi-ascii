@@ -9,7 +9,7 @@ A Tachikoma-inspired animated ASCII emote set for [pi-emote](https://github.com/
 ╱╲   ╱╲
 ```
 
-The emote reacts to Pi states such as thinking, talking, reading, writing, tool use, success, failure, and context compaction. The body is cyan, and the eye is yellow.
+The emote reacts to Pi states such as thinking, talking, reading, writing, tool use, success, failure, and context compaction. Its turret sweeps from right to left during active states. The body is cyan, and the eye is yellow.
 
 ## Requirements
 
